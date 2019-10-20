@@ -1,0 +1,10 @@
+{
+	"HeadNum":2,
+	"EmbeddingSize":128,
+	"MaxLength":125,
+	"EnLayer":5,
+	"DeLayer":5,
+	"BatchSize":150,
+	"Dropout":0.1
+
+}
